@@ -12,6 +12,18 @@ O projeto foi desenvolvido em **MySQL** utilizando conceitos de:
 
 ---
 
+## 🖼 Demonstração
+
+### Diagrama do Banco de Dados
+![Diagrama do Banco](Projeto_E-commerce.png)
+
+### Consultas no Workbench
+![Consultas SQL](consulta.png)
+
+*(adicione suas imagens na pasta `imagens/` do repositório, com esses nomes ou altere os caminhos conforme desejar)*
+
+---
+
 ## 🏗 Estrutura do Banco de Dados
 
 - **cliente**
