@@ -29,8 +29,8 @@ Replique a modelagem do projeto lógico de banco de dados para o cenário de **E
 ## 🖼 Imagens (adicione as suas)
 > Coloque suas imagens na pasta `imagens/` e elas serão exibidas aqui.
 
-![Diagrama EER](imagens/diagrama.png)
-![Consultas no Workbench](imagens/consultas.png)
+![Diagrama EER](Projeto_E-commerce.png)
+![Consultas no Workbench](consulta.png)
 
 ---
 
